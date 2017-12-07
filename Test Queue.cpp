@@ -111,7 +111,7 @@ int QueueSize2(Queue *s)
 int main()
 {
 	printf("********************************************\n"
-		"This Queue is just for CHAR onlyyyyyyyy \n"
+		"This Queue is just for CHAR only \n"
 		"********************************************\n");
 	Queue q , t;
 	QueueEntry e;
