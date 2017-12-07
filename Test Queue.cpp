@@ -13,7 +13,7 @@ void PrintQueue(QueueEntry pe)
 int main()
 {
 	printf("********************************************\n"
-		"This Queue is just for CHAR onlyyyyyyyy \n"
+		"This Queue is just for CHAR only \n"
 		"********************************************\n");
 	Queue q;
 	int j = 0;
