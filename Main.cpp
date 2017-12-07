@@ -106,7 +106,7 @@ StackEntry RemoveFirstElement2(Stack *ps)
 int main()
 {
 	printf("********************************************\n"
-		"This Stack is just for CHAR onlyyyyyyyy \n"
+		"This Stack is just for CHAR only \n"
 		"********************************************\n");
 	Stack s;
 	StackEntry e;
