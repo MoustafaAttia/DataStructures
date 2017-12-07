@@ -1,2 +1,2 @@
 ## DataStructures
-# Stack using array based
+### Stack using array based
